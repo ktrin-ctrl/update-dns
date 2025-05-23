@@ -1,0 +1,3 @@
+services:
+  updatedns:
+    image: python 
